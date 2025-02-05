@@ -6,10 +6,10 @@ A simple typed-checked, functional language written solely in Racket
 - **Boolean operations**: `<=`, `num-eq?`, `str-eq?`
 - **Conditionals**: `if` expressions
 - **Bindings**: `bind`, `recbind`
-- **Function definitions**: Define functions with types and multiple arguments
+- **Anonymous Functions and Closures**: Define lambda functions with types and multiple arguments
 - **Recursive functions**: Support for recursive function calls via `recbind`
 - **Type Checking**: Type inference and checking for all expressions and operations
-- **REPL or File Execution**: Execute AAQZ7 code interactively or from a file
+- **REPL or File Execution**: Execute SLI code interactively or from a file
 
 ## Usage
 You can use the interpreter in two modes:
